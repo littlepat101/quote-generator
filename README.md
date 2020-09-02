@@ -8,5 +8,5 @@ This is project 1 / 20.
 
 # Live Project
 
-Check out my live project [here](https://littlepat101.github.io/quote-generator/).
+Check out this project live [here](https://littlepat101.github.io/quote-generator/).
 
